@@ -1,0 +1,7 @@
+<map id="com.dani.viajes.service.GestionItinerarios.obtenerReservas" name="com.dani.viajes.service.GestionItinerarios.obtenerReservas">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,232,81"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1dani_1_1viajes_1_1model_1_1_itinerario.html#af30dca1b0c663e08ed208a8c0ec52228" title=" " alt="" coords="280,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,44,264,40,264,45,232,49"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1dani_1_1viajes_1_1service_1_1_gestion_itinerarios.html#a9edd9a1db1f5e79e123d27272ffc5aa7" title=" " alt="" coords="283,72,504,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,71,268,75,267,81,232,76"/>
+</map>

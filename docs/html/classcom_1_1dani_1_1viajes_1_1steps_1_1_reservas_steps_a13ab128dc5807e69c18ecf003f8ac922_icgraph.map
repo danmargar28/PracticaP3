@@ -1,0 +1,7 @@
+<map id="com.dani.viajes.steps.ReservasSteps.cuandoAgregoReserva" name="com.dani.viajes.steps.ReservasSteps.cuandoAgregoReserva">
+<area shape="rect" id="Node000001" title=" " alt="" coords="328,29,536,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="480,16,462,10,432,8,404,10,387,15,381,21,383,28,378,29,375,19,385,10,403,5,432,3,463,5,481,11"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1dani_1_1viajes_1_1steps_1_1_reservas_steps.html#ab9a7ab4f5f053a02f6ff93c88f752adf" title=" " alt="" coords="5,29,280,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="312,53,280,53,280,48,312,48"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="190,16,172,10,142,8,115,10,98,15,91,21,93,28,88,29,86,19,95,10,114,5,143,3,174,5,192,11"/>
+</map>
